@@ -5,7 +5,7 @@
 
 ---
 
-### Más información 🚀
+### 🚀 Más información 
 
 - 🧠 Combino una sólida base matemática y analítica con el desarrollo de software para resolver problemas complejos.
 - 🏆 Participación en diversos **Hackathons** de alto rendimiento, aplicando ingeniería de datos, modelos de IA y ciberseguridad en proyectos reales.
