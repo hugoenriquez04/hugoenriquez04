@@ -1,16 +1,16 @@
-# Acerca de mi 👋
+# Acerca de mí 👋
 
-🎓 **Estudiante de 4º del Doble Grado en Ingeniería Informática y Matemáticas** en la Universidad de Málaga (UMA).  
-💡 Apasionado por la **Ciberseguridad, el Data Engineering y el Desarrollo de Backend**.
+🎓 **Estudiante de 4º del Doble Grado en Ingeniería Informática y Matemáticas** en la Universidad de Málaga.  
+💡 Áreas de mayor interés: **Ciberseguridad, Data Engineering y Desarrollo Backend**.
 
 ---
 
-### 🚀 Sobre mí
+### Más información 🚀
 
 - 🧠 Combino una sólida base matemática y analítica con el desarrollo de software para resolver problemas complejos.
-- 🏆 Participante activo en **Hackathons** de alto rendimiento, aplicando ingeniería de datos, modelos de IA y ciberseguridad en proyectos reales.
-- 🛡️ En constante aprendizaje sobre **seguridad ofensiva y defensiva** (Cursos con INCIBE, UMA y Cyberbootcamp).
-- 📍 Basado en Málaga, España.
+- 🏆 Participación en diversos **Hackathons** de alto rendimiento, aplicando ingeniería de datos, modelos de IA y ciberseguridad en proyectos reales.
+- 🛡️ Formación especializada en seguridad ofensiva y defensiva a través de programas de INCIBE, UMA y Cyberbootcamp.
+- 📍 Málaga, España.
 
 ---
 
@@ -19,9 +19,10 @@
 | Categoría | Tecnologías / Herramientas |
 | :--- | :--- |
 | **Lenguajes** | `Python` `Java` `C++` `SQL` |
-| **Ciberseguridad & Mates** | `Criptografía` `Seguridad Ofensiva` `PowerShell` `BadUSB` |
-| **Data & Machine Learning** | `Análisis de Datos (EDA)` `Feature Engineering` `Random Forest` |
-| **Herramientas & Entornos** | `Git` `Docker` `Postman` `Oracle Cloud (OCI)` `Oracle APEX` |
+| **Analítica & Ciberseguridad** | `Análisis de Datos (EDA)` `Machine Learning` `Seguridad Ofensiva` |
+| **Entornos & IDEs** | `VS Code` `IntelliJ IDEA` `SQL Developer` |
+| **Utilidades & Cloud** | `Git` `Docker` `Postman` `Oracle Cloud (OCI)` |
+
 
 ---
 
