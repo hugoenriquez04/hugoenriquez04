@@ -1,7 +1,7 @@
-# ¡Hola, soy Hugo Enríquez! 👋
+# Acerca de mi 👋
 
 🎓 **Estudiante de 4º del Doble Grado en Ingeniería Informática y Matemáticas** en la Universidad de Málaga (UMA).  
-💡 Apasionado por la **Ciberseguridad, el Data Engineering, el Desarrollo Backend y la Inteligencia Artificial**.
+💡 Apasionado por la **Ciberseguridad, el Data Engineering y el Desarrollo de Backend**.
 
 ---
 
@@ -38,7 +38,7 @@
 
 ---
 
-### 📬 Conéctate conmigo
+### 📬 Puedes contactarme en:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hugo_Enríquez-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/hugo-enriquez-jimenez)
 [![Email](https://img.shields.io/badge/Email-hugo.enriquez.jim@gmail.com-D14836?style=flat&logo=gmail)](mailto:hugo.enriquez.jim@gmail.com)
