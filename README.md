@@ -36,10 +36,3 @@
 
 - **Premio a la Excelencia Educativa | Ayuntamiento de Málaga:**  
   Reconocimiento institucional tras obtener expediente académico perfecto en Bachillerato de Ciencias.
-
----
-
-### 📬 Puedes contactarme en:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hugo_Enríquez-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/hugo-enriquez-jimenez)
-[![Email](https://img.shields.io/badge/Email-hugo.enriquez.jim@gmail.com-D14836?style=flat&logo=gmail)](mailto:hugo.enriquez.jim@gmail.com)
