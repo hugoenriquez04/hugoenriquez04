@@ -10,7 +10,6 @@
 - 🧠 Combino una sólida base matemática y analítica con el desarrollo de software para resolver problemas complejos.
 - 🏆 Participación en diversos **Hackathons** de alto rendimiento, aplicando ingeniería de datos, modelos de IA y ciberseguridad en proyectos reales.
 - 🛡️ Formación especializada en seguridad ofensiva y defensiva a través de programas de INCIBE, UMA y Cyberbootcamp.
-- 📍 Málaga, España.
 
 ---
 
