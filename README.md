@@ -1,6 +1,6 @@
 # Acerca de mí 👋
 
-🎓 **Estudiante de 4º del Doble Grado en Ingeniería Informática y Matemáticas** en la Universidad de Málaga.  
+🎓 **Estudiante de 5º del Doble Grado en Ingeniería Informática y Matemáticas** en la Universidad de Málaga.  
 💡 Áreas de mayor interés: **Ciberseguridad, Data Engineering y Desarrollo Backend**.
 
 ---
