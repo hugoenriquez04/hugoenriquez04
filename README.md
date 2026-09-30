@@ -18,7 +18,7 @@
 | Categoría | Tecnologías / Herramientas |
 | :--- | :--- |
 | **Lenguajes** | `Python` `Java` `C++` `SQL` |
-| **Analítica & Ciberseguridad** | `Análisis de Datos (EDA)` `Machine Learning` `Seguridad Ofensiva` |
+| **Analítica & Ciberseguridad** | `Análisis de Datos (EDA)` `Machine Learning` `Seguridad Defensiva` |
 | **Entornos & IDEs** | `VS Code` `IntelliJ IDEA` `SQL Developer` |
 | **Utilidades & Cloud** | `Git` `Docker` `Postman` `Oracle Cloud (OCI)` |
 
