@@ -1,37 +1,36 @@
-# Acerca de mí 👋
+# About Me 👋
 
-🎓 **Estudiante de 5º del Doble Grado en Ingeniería Informática y Matemáticas** en la Universidad de Málaga.  
-💡 Áreas de mayor interés: **Ciberseguridad, Data Engineering y Desarrollo Backend**.
-
----
-
-### 🚀 Más información 
-
-- 🧠 Combino una sólida base matemática y analítica con el desarrollo de software para resolver problemas complejos.
-- 🏆 Participación en diversos **Hackathons** de alto rendimiento, aplicando ingeniería de datos, modelos de IA y ciberseguridad en proyectos reales.
-- 🛡️ Formación especializada en seguridad ofensiva y defensiva a través de programas de INCIBE, UMA y Cyberbootcamp.
+🎓 **5th-year student in the Double Degree in Computer Science and Mathematics** at the University of Málaga.  
+💡 Core areas of interest: **Cybersecurity, Data Engineering, and Backend Development**.
 
 ---
 
-### 🛠️ Tecnologías & Herramientas
+### 🚀 More About Me
 
-| Categoría | Tecnologías / Herramientas |
+- 🧠 I combine a strong mathematical and analytical background with software development to solve complex problems.
+- 🏆 Participant in high-performance **Hackathons**, applying data engineering, AI models, and cybersecurity to real-world projects.
+- 🛡️ Specialized training in offensive and defensive security through programs by INCIBE, UMA, and Cyberbootcamp.
+
+---
+
+### 🛠️ Technologies & Tools
+
+| Category | Technologies / Tools |
 | :--- | :--- |
-| **Lenguajes** | `Python` `Java` `C++` `SQL` |
-| **Analítica & Ciberseguridad** | `Análisis de Datos (EDA)` `Machine Learning` `Seguridad Defensiva` |
-| **Entornos & IDEs** | `VS Code` `IntelliJ IDEA` `SQL Developer` |
-| **Utilidades & Cloud** | `Git` `Docker` `Postman` `Oracle Cloud (OCI)` |
-
+| **Languages** | `Python` `Java` `C++` `SQL` `Haskell` |
+| **Analytics & Cybersecurity** | `Data Analysis (EDA)` `Machine Learning` `Defensive Security` |
+| **IDEs & Environments** | `VS Code` `IntelliJ IDEA` `SQL Developer` |
+| **Utilities & Cloud** | `Git` `Docker` `Postman` `Oracle Cloud (OCI)` |
 
 ---
 
-### 🏆 Proyectos & Reconocimientos
+### 🏆 Projects & Achievements
 
-- **Premio BHS a la Comunicación e Integración | Malackathon:**  
-  Desarrollo de *Proyecto Gauss*, una plataforma web de análisis de datos clínicos masivos con detección de outliers, protección/seguridad de datos de pacientes y asistente de IA integrado.
+- **BHS Communication & Integration Award | Malackathon:**  
+  Developed *Project Gauss*, a web platform for massive clinical data analysis featuring outlier detection, patient data security/protection, and an integrated AI assistant.
 
-- **4º Premio Hack the World Cup 26 | Oracle Spain:**  
-  Diseño e implementación de un modelo predictivo (Random Forest) basado en métricas históricas y ELO sobre infraestructura Oracle Cloud (OCI), integrado con IA.
+- **4th Place – Hack the World Cup 26 | Oracle Spain:**  
+  Designed and implemented a predictive model (Random Forest) based on historical metrics and ELO ratings deployed on Oracle Cloud Infrastructure (OCI) and integrated with AI.
 
-- **Premio a la Excelencia Educativa | Ayuntamiento de Málaga:**  
-  Reconocimiento institucional tras obtener expediente académico perfecto en Bachillerato de Ciencias.
+- **Award for Educational Excellence | City Council of Málaga:**  
+  Institutional recognition for achieving a perfect academic record in High School (Sciences).
