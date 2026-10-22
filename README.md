@@ -10,7 +10,7 @@ Fifth-year Computer Engineering and Mathematics student at the University of Má
 | :--- | :--- |
 | **Languages** | Python, Java, C++, SQL, Haskell |
 | **Data & ML** | EDA, Feature Engineering, Random Forest, Clustering (K-Means, GMM, DBSCAN) |
-| **Security** | Defensive and offensive security, PowerShell, BadUSB |
+| **Security** | Defensive security, Ethical Hacking |
 | **Tools & Cloud** | Git, Docker, Postman, Oracle Cloud Infrastructure (OCI), Oracle APEX |
 
 ---
