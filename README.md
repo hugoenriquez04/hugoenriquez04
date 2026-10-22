@@ -1,56 +1,56 @@
-# About Hugo
+# About Hugo 
 
-I'm a fifth-year student of the double degree in Computer Engineering and Mathematics at the University of Málaga. I enjoy working where mathematics and software meet, and my main interests are cybersecurity, data engineering and backend development.
-
-I like to understand a problem thoroughly before writing any code, and I care about building solutions that are clean, secure and easy to maintain. I've put this into practice in hackathons and team projects, and I'm looking for opportunities to keep learning while contributing to technology projects with real impact.
+Fifth-year Computer Engineering and Mathematics student at the University of Málaga, focused on cybersecurity, data engineering and backend development. I enjoy turning complex problems into clean, secure and well-structured solutions, and I'm looking for projects where I can keep growing while delivering real value.
 
 ---
 
-## Technical Skills
+## Tech Stack
 
-| Category | Technologies / Tools |
+| | |
 | :--- | :--- |
-| **Languages** | `Python` `Java` `C++` `SQL` `Haskell` |
-| **Data & Machine Learning** | `Data Analysis (EDA)` `Feature Engineering` `Random Forest` `Unsupervised Learning (Clustering)` |
-| **Security** | `Defensive Security` `Offensive Security` `BadUSB` `PowerShell` |
-| **Environments** | `VS Code` `IntelliJ IDEA` `SQL Developer` |
-| **Tools & Cloud** | `Git` `Docker` `Postman` `Oracle Cloud Infrastructure (OCI)` `Oracle APEX` |
+| **Languages** | Python, Java, C++, SQL, Haskell |
+| **Data & ML** | EDA, Feature Engineering, Random Forest, Clustering (K-Means, GMM, DBSCAN) |
+| **Security** | Defensive and offensive security, PowerShell, BadUSB |
+| **Tools & Cloud** | Git, Docker, Postman, Oracle Cloud Infrastructure (OCI), Oracle APEX |
 
 ---
 
-## Projects and Achievements
+## Featured Projects
 
-### Finalist, III Malackathon 2026: "Clustering the Star" (Mercedes-Benz Group Services Madrid)
-University of Málaga · October 2026
+### [Malackathon 2026: Clustering the Star](https://github.com/hugoenriquez04/Malackathon2026)
+*Finalist, III Malackathon (University of Málaga), Mercedes-Benz Group Services Madrid challenge*
 
-Reached the final phase of the challenge by applying unsupervised learning to a real Mercedes-Benz dataset to segment its customer base and identify high-value profiles. The solution combined a macro-segmentation by country and channel (B2B/B2C) with a full analytical pipeline: data cleaning, feature engineering, multi-criteria comparison of clustering models (K-Means, GMM, Agglomerative Clustering, DBSCAN), PCA-based validation and Jackknife stability analysis (median ARI of 0.972), and business-oriented buyer personas with marketing recommendations.
+Customer segmentation using unsupervised learning on a real company dataset, split by country and channel (B2B/B2C).
+- Data cleaning, feature engineering and `RobustScaler` scaling.
+- Multi-criteria comparison of K-Means, GMM, Agglomerative Clustering and DBSCAN (Silhouette, Davies-Bouldin, Calinski-Harabasz, ARI).
+- Validation with 3D PCA and Jackknife stability analysis (median ARI of 0.972).
+- Business profiling into data-driven buyer personas with marketing recommendations.
 
-### 4th Place, Hack the World Cup 26 (Oracle Spain)
-March – May 2026
+**Stack:** Python, scikit-learn, PCA
 
-National competition on 2026 World Cup predictions, built on OCI. Developed a Random Forest predictive model using ELO ratings and historical metrics, a web application with Oracle APEX, and an AI integration for natural language queries and match predictions.
+### [Hack the World Cup 26: World Cup Analytics](https://github.com/hugoenriquez04/WorldCupAnalytics)
+*4th place, Oracle Spain*
 
-### BHS Award for Communication and Feature Integration, Malackathon 2025
-October 2025
+Predictive platform for 2026 World Cup matches, built on Oracle Cloud Infrastructure.
+- Random Forest model using ELO ratings and historical metrics.
+- Web application developed with Oracle APEX.
+- Generative AI integration for natural language queries and match predictions.
 
-Developed the *Gauss Project* with a team of four: a web platform for healthcare professionals to analyze large clinical datasets, featuring outlier detection and feature engineering, patient data protection and column normalization, and an interactive AI assistant.
+**Stack:** Python, SQL, OCI, Oracle APEX
 
-### Málaga City Education Awards (Málaga City Council)
-July 2022
+### [Gauss Project](https://github.com/hugoenriquez04/ProyectoGauss)
+*BHS Award for Communication and Feature Integration, Malackathon 2025*
 
-Recognition for a perfect 10/10 GPA across the two years of High School (Science track).
+Web platform that lets healthcare professionals analyze large clinical datasets.
+- Outlier detection and feature engineering.
+- Patient data protection and column normalization.
+- Interactive AI assistant.
+
+**Stack:** Python, SQL, Oracle
 
 ---
 
-## Training and Experience
+## Training
 
-- **Cyberbootcamp Málaga 2026** (July 2026): advanced cybersecurity track, including an outreach initiative aimed at a specific community.
-- **Cybersecurity Course, UMA and INCIBE** (November 2025): corporate attack techniques and offensive security using BadUSB devices and PowerShell.
-- **Private Mathematics Tutor** (October 2025 – present): tutoring for Middle and High School students.
-- **Language Immersion Program, Malta** (July 2025): two weeks with Eurolingua, around 40 hours of English classes.
-
----
-
-## Languages
-
-English (B2, Cambridge) · Spanish (native) · French (basic) · German (basic)
+- Cyberbootcamp Málaga 2026: advanced cybersecurity track.
+- Cybersecurity course, University of Málaga and INCIBE: corporate attack techniques and offensive security.
